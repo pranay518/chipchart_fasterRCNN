@@ -1,0 +1,750 @@
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2221,1428,2299,1503,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2375,1571,2446,1639,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2209,1611,2284,1677,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2051,1603,2126,1669,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,1901,1603,1960,1685,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2232,1879,2323,2007,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2305,1748,2425,1833,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2405,1904,2477,2003,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2111,1742,2220,1882,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,1881,1742,2002,1879,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,1931,1892,2056,1984,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,1907,2084,1972,2136,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,1889,2236,1952,2289,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2064,2087,2135,2155,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2416,2226,2456,2289,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2373,2088,2444,2137,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2053,2219,2116,2304,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2222,2242,2303,2295,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2226,2098,2284,2163,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2622,2246,2675,2282,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3073,2238,3123,2284,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2880,2105,2942,2150,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3064,2097,3110,2162,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2720,2094,2778,2131,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2606,2089,2659,2155,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2917,2226,2960,2286,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2746,2233,2812,2279,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3112,1747,3171,1829,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2606,1754,2690,1866,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2805,1781,2889,1863,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2965,1771,3043,1824,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2627,1886,2742,2013,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2867,1921,2963,2000,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3038,1902,3162,1996,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2591,1443,2660,1501,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2601,1587,2664,1632,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2956,1450,3015,1512,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3090,1452,3135,1514,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2788,1453,2844,1512,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3105,1587,3193,1652,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2952,1621,3020,1673,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2778,1606,2846,1664,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2604,1120,2663,1204,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2765,1145,2846,1240,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2910,1136,2965,1215,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3086,1116,3171,1189,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2624,1289,2712,1362,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3102,1270,3184,1336,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2782,1297,2857,1356,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2929,1286,3015,1351,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3113,942,3178,998,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3113,793,3194,874,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2969,801,3027,869,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2799,795,2881,879,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2606,816,2704,871,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2964,939,3037,978,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2599,935,2683,1013,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2794,948,2888,1017,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2795,645,2877,711,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2814,472,2916,567,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2628,452,2773,556,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2629,619,2713,688,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3002,454,3098,542,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,2989,608,3071,679,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3123,543,3195,647,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3335,474,3424,550,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3308,599,3390,665,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3486,626,3565,702,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3495,481,3573,539,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3637,469,3731,519,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3799,459,3880,554,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3663,626,3745,686,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3792,603,3874,699,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3315,2088,3364,2131,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3319,2231,3355,2291,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3756,2082,3816,2134,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3589,2100,3644,2152,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3436,2087,3481,2127,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3446,2236,3495,2269,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3773,2241,3829,2271,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3630,2226,3667,2265,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3283,1778,3384,1877,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3355,1912,3454,1980,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3455,1757,3540,1846,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3669,1747,3781,1829,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3574,1892,3704,1980,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3757,1896,3862,1972,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3829,1801,3905,1851,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3296,1460,3375,1509,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3311,1616,3390,1659,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3463,1607,3539,1653,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3456,1472,3538,1543,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3636,1440,3695,1513,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3797,1459,3870,1519,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3629,1604,3718,1657,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3805,1603,3860,1662,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3656,1162,3731,1214,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3787,1126,3885,1217,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3419,1146,3595,1206,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3753,1279,3841,1370,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3296,1115,3378,1211,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3332,1270,3476,1372,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3542,1247,3676,1351,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3756,780,3845,900,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3763,929,3862,1018,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3508,929,3665,1024,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3349,805,3440,880,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3521,788,3658,908,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/RCMT-P04 egg2 flood.JPG,3324,926,3439,1028,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,2778,782,2867,1760,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,2791,1845,3057,2570,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,3148,578,3270,1742,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,3009,1567,3267,2510,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,3476,621,3615,1597,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,3667,673,3806,1909,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,3446,1606,3697,2619,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,618,700,815,785,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,507,1006,657,1100,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1023,871,1214,936,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1053,1051,1229,1102,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1435,603,1546,739,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1363,944,1424,1147,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,854,1302,1082,1375,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1179,1375,1239,1572,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1492,1219,1559,1405,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,569,2339,787,2505,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,824,2153,871,2322,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1053,2110,1100,2336,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1477,2315,1543,2498,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,663,1415,789,1527,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,633,1663,881,1723,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,561,1869,732,1981,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1032,1783,1213,1830,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1358,2001,1403,2184,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1467,1984,1649,2036,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,922,1945,1118,2016,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Solid-Modulart NG-A1-G 211101.JPG,1300,1817,1457,1928,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,182,426,294,517,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,317,604,421,710,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,743,425,866,512,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,449,401,735,661,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1124,528,1290,731,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,885,387,1168,690,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1572,507,2468,636,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2734,396,3098,732,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3191,365,3508,744,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3579,412,3863,714,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2724,938,2901,1121,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2912,1098,3108,1261,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3124,943,3310,1101,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3485,928,3670,1104,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3665,1124,3812,1296,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3291,1106,3453,1297,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3705,1472,3816,1555,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3642,1663,3787,1764,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3468,1541,3594,1642,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3151,1475,3278,1623,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2733,1469,2870,1643,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3280,1641,3449,1813,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3085,1644,3180,1775,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2848,1636,3003,1835,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3603,2008,3737,2104,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3579,2166,3725,2276,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3306,2054,3453,2148,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2741,2018,2972,2235,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3050,2010,3162,2160,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3074,2263,3177,2338,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,3347,2209,3475,2324,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,394,938,466,1016,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,624,926,667,982,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,190,950,241,1005,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,776,945,850,999,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,977,952,1033,993,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1170,948,1242,1006,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1200,1150,1246,1205,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1012,1138,1068,1191,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,798,1154,870,1218,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,404,1171,467,1218,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,204,1147,280,1212,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,604,1133,689,1223,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2462,969,2554,1028,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2470,1159,2558,1228,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2237,972,2329,1042,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2237,1163,2322,1249,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1987,978,2068,1067,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2022,1165,2111,1236,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1755,965,1833,1052,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1725,1187,1809,1270,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1488,944,1566,1048,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1507,1150,1610,1245,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1507,1498,1565,1553,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1825,1496,1871,1554,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2091,1505,2148,1563,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2403,1502,2468,1547,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2427,1696,2477,1755,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2123,1705,2178,1758,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1823,1700,1885,1757,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1507,1679,1570,1766,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2373,2027,2451,2072,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2389,2230,2478,2291,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2157,2284,2225,2324,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,2150,2021,2201,2098,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1928,2051,1989,2091,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1948,2220,2006,2289,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1700,2024,1760,2125,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1727,2213,1824,2297,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1472,2246,1541,2286,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1484,2028,1531,2099,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,142,1488,189,1521,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,276,1464,324,1502,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,436,1467,460,1509,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,665,1457,710,1492,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,817,1494,841,1538,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,960,1510,1001,1534,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1186,1438,1217,1472,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1064,1499,1093,1545,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1268,1542,1302,1577,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1127,1598,1153,1642,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1243,1708,1285,1730,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1054,1738,1093,1763,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,936,1626,974,1654,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,556,1539,594,1576,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,900,1734,936,1778,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,686,1668,716,1706,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,799,1631,831,1672,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,529,1720,567,1753,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,303,1590,342,1616,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,420,1641,457,1665,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,166,1695,199,1736,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,307,1717,351,1745,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1161,2255,1197,2284,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,966,2209,992,2249,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1212,2054,1254,2078,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1152,2015,1184,2041,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1052,2119,1095,2147,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1000,1993,1039,2019,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,833,1974,868,2003,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,868,2092,902,2119,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,759,2139,793,2170,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,698,1993,724,2032,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,618,2215,651,2251,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,617,2111,658,2139,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,1181,2147,1211,2180,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,813,2213,839,2247,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,520,2003,552,2038,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,276,1978,297,2013,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,362,1983,391,2015,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,398,2052,434,2078,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,222,2226,285,2258,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,239,2103,277,2128,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,482,2207,516,2253,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss1672.JPG,344,2167,384,2195,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,170,345,620,488,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,88,448,1354,748,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,630,356,1223,566,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1484,385,2542,504,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1468,616,1992,701,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2106,552,2541,743,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2992,420,3730,693,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2739,931,2923,1147,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3171,922,3313,1106,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2989,1094,3208,1309,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3547,931,3684,1082,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3648,1071,3846,1276,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3365,1106,3542,1293,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2766,1520,2882,1625,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2886,1669,2992,1786,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3013,1453,3134,1559,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3106,1673,3209,1756,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3352,1677,3476,1806,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3655,1667,3771,1790,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3721,1466,3838,1582,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3476,1485,3603,1597,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3254,1497,3345,1611,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3719,2073,3820,2148,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3567,1995,3660,2064,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3519,2218,3581,2294,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3288,2038,3379,2116,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3281,2180,3366,2277,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3066,2019,3143,2093,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,3076,2186,3150,2288,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2806,2193,2902,2271,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2777,2022,2878,2100,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,216,1171,311,1232,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,478,955,558,1011,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,222,941,310,1039,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,486,1154,583,1232,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,693,1146,810,1232,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,715,951,801,1021,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,928,974,1070,1078,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,949,1163,1083,1234,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,247,1478,295,1528,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,195,1707,275,1764,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,343,1637,396,1676,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,496,1740,549,1776,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,469,1459,535,1498,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,511,1607,564,1638,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,759,1486,796,1538,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,703,1585,736,1637,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,907,1682,959,1713,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,718,1697,767,1758,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1181,1483,1231,1545,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,937,1485,1000,1541,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1013,1585,1047,1634,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1182,1659,1233,1701,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1041,1724,1095,1762,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1221,1176,1270,1243,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1211,975,1295,1051,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,203,2036,258,2102,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,298,1999,376,2032,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,240,2204,340,2284,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,487,2018,527,2053,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,393,2135,450,2205,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,674,1978,741,2040,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,598,2093,638,2124,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,575,2214,631,2264,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,910,2276,955,2311,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,813,2158,858,2203,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,849,2012,889,2090,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1056,2199,1122,2247,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1082,2018,1134,2087,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1209,2131,1273,2187,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2056,1179,2251,1273,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1497,970,1584,1037,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1511,1171,1599,1253,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1800,1175,1888,1250,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2420,1164,2500,1225,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2414,952,2490,1034,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1774,949,1886,1030,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2070,958,2174,1057,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2116,1533,2194,1603,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1804,1509,1917,1590,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2124,1701,2191,1784,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2393,1508,2475,1576,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1527,1521,1611,1583,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1803,1683,1901,1751,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1575,1703,1635,1781,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2375,1663,2517,1784,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1763,2010,1887,2104,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1533,2236,1588,2307,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1748,2225,1863,2313,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2005,2050,2096,2105,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2252,2037,2332,2099,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2282,2269,2335,2311,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2474,2030,2530,2091,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2460,2192,2540,2307,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,2020,2239,2096,2310,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta NG-MT ss2348.JPG,1504,2025,1610,2102,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,574,564,667,665,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,801,564,887,630,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1059,572,1125,646,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1346,530,1441,596,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,595,821,691,892,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,839,751,886,827,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1042,808,1128,863,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1334,772,1433,840,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,550,1103,633,1206,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,716,1080,796,1177,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,905,1043,1001,1121,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1132,1025,1220,1114,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1396,1025,1477,1098,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,603,1270,701,1358,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,871,1258,968,1338,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1105,1277,1204,1370,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1335,1278,1432,1341,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,768,1506,886,1610,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,535,1557,636,1647,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,786,1770,904,1861,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1317,1468,1456,1592,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1072,1481,1181,1608,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,947,1632,1052,1734,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,547,1789,637,1879,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1276,1641,1395,1708,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1097,1759,1214,1876,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1349,1777,1469,1860,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,521,2119,779,2366,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,783,1980,977,2174,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1224,1948,1426,2152,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1010,2166,1240,2391,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1601,2134,1902,2420,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1939,1984,2222,2280,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2227,2220,2414,2392,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2407,1961,2650,2225,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2972,2032,3182,2222,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2773,2224,2955,2409,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3253,2215,3445,2410,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3511,2037,3709,2237,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2860,1758,2955,1876,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3145,1799,3218,1856,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3395,1749,3491,1865,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3630,1805,3730,1884,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2830,1535,2941,1620,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3107,1554,3202,1653,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3361,1539,3485,1628,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3626,1540,3715,1632,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1638,1515,1797,1688,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1972,1572,2129,1711,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2216,1531,2365,1669,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2486,1512,2626,1630,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1762,1745,1939,1913,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2108,1755,2241,1874,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2412,1779,2520,1895,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1668,499,1745,599,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1845,576,1950,654,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2015,524,2116,606,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2240,592,2348,678,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2442,602,2561,682,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1693,771,1788,867,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1890,752,1963,829,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2068,802,2152,863,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2234,786,2311,882,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2462,817,2547,879,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1667,1054,1747,1172,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1918,1037,2029,1125,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2118,1038,2226,1126,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2327,1056,2449,1160,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1662,1261,1744,1375,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,1855,1255,1982,1370,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2111,1258,2202,1375,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2344,1286,2425,1365,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2485,1183,2598,1267,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2821,581,2899,687,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3138,549,3219,627,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3417,510,3543,592,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2864,788,2931,865,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3111,789,3212,874,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3673,574,3752,626,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3667,752,3723,833,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3362,687,3404,747,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3461,814,3530,874,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2818,1039,2875,1126,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3031,1009,3142,1077,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3340,1047,3449,1154,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3630,1015,3713,1090,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,2882,1281,2967,1389,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3155,1283,3242,1333,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3416,1278,3464,1340,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss1672.JPG,3583,1228,3654,1304,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,554,548,620,635,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,815,531,898,607,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1076,531,1166,608,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1273,557,1375,636,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,546,734,621,819,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,816,763,892,829,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1065,726,1157,837,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1310,792,1384,844,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1420,677,1495,745,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,508,1014,601,1119,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,776,1007,903,1126,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1034,982,1127,1059,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1270,1011,1357,1106,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,564,1218,675,1306,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,815,1262,922,1355,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1061,1191,1141,1302,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1412,1150,1503,1252,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1240,1243,1321,1326,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,537,1516,680,1681,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,955,1505,1082,1637,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,783,1678,953,1855,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1318,1524,1438,1646,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1156,1680,1317,1861,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,580,1977,776,2191,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1196,2198,1393,2385,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1275,1964,1502,2184,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1959,1994,2325,2444,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,784,1978,1182,2399,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1681,2095,1907,2284,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2352,2121,2599,2360,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1639,1462,1786,1585,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1888,1523,2007,1652,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2144,1505,2280,1624,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2431,1491,2567,1648,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2487,1763,2583,1848,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2266,1679,2400,1791,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1978,1699,2106,1839,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1654,1714,1786,1841,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1715,1222,1810,1321,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1920,1234,2014,1319,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1687,1005,1786,1089,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1956,1035,2027,1131,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2195,1029,2294,1123,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2205,1215,2292,1318,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2489,980,2568,1083,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2441,1257,2549,1341,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1660,534,1742,631,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1935,525,2010,624,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2146,537,2251,614,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1726,733,1830,844,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,1967,774,2066,865,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2183,707,2317,826,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2433,522,2522,598,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2442,729,2517,820,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2812,505,2865,567,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3086,511,3164,578,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3304,530,3364,602,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3512,549,3592,610,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2795,739,2885,858,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3020,643,3103,745,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3066,836,3146,898,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3315,687,3371,743,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3602,699,3665,766,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3403,806,3484,864,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2830,1023,2918,1176,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2738,1225,2845,1326,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3100,1058,3212,1155,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3032,1217,3142,1306,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3329,1075,3425,1187,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3304,1328,3376,1403,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3586,1020,3738,1142,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3573,1240,3671,1359,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3532,1532,3647,1641,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3284,1553,3385,1644,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3034,1542,3131,1625,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2999,1753,3131,1858,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3246,1732,3357,1837,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3501,1757,3674,1856,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2780,1758,2874,1844,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2761,1515,2909,1622,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,2781,1977,3222,2425,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta ss2348.JPG,3259,2009,3433,2196,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,504,584,775,712,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,718,404,1049,571,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1200,438,1296,523,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,958,632,1064,719,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1167,650,1267,738,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1651,467,2542,597,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2755,413,3464,511,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2767,591,2914,731,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3000,600,3082,718,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3184,616,3286,703,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3455,555,3599,694,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3667,458,3889,702,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2704,916,2924,1123,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2944,1069,3142,1278,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3169,938,3391,1125,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3535,920,3713,1069,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3370,1120,3549,1265,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3675,1107,3826,1256,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1491,969,1584,1031,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1734,961,1802,1018,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1997,963,2070,1047,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2258,989,2342,1074,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2495,978,2579,1058,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2384,1169,2471,1232,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2084,1156,2166,1229,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1820,1149,1893,1236,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1527,1178,1614,1251,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2729,1509,2880,1636,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3031,1463,3178,1643,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3355,1453,3473,1586,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3689,1447,3782,1576,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2891,1676,3049,1807,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3218,1638,3394,1796,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3491,1620,3600,1771,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3664,1669,3786,1758,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2687,2012,2900,2163,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3071,2009,3191,2180,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3325,2032,3509,2165,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3691,2033,3809,2137,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3562,2160,3664,2304,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,3222,2227,3351,2315,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2999,2202,3097,2351,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2747,2235,2883,2333,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,197,985,250,1038,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,419,960,469,1016,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,270,1164,323,1207,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,433,1082,470,1125,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,608,1024,679,1081,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,524,1178,574,1245,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,710,1137,757,1179,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,801,956,869,1010,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1011,940,1062,987,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,850,1172,915,1222,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,967,1086,997,1128,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1224,962,1280,1001,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1090,1161,1136,1222,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1207,1086,1255,1139,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,278,1467,320,1503,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,201,1560,245,1589,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,231,1707,263,1742,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,371,1657,410,1699,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,394,1449,461,1500,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,703,1449,746,1481,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,554,1553,596,1582,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,532,1671,568,1708,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,883,1503,915,1545,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1029,1471,1065,1518,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1137,1496,1173,1525,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,779,1633,814,1679,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,671,1740,710,1775,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,900,1703,939,1735,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1046,1668,1078,1705,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1183,1671,1230,1706,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,203,2017,252,2068,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,315,1999,372,2049,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,233,2154,265,2193,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,197,2254,240,2287,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,332,2236,369,2267,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,414,2115,457,2150,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,461,1987,498,2016,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,656,1965,695,1997,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,515,2044,550,2075,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,439,2226,475,2255,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,581,2140,617,2173,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,561,2230,594,2292,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,662,2193,693,2233,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,700,2065,729,2104,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,742,1992,782,2024,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,922,1950,948,1985,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,903,2036,931,2082,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,824,2089,852,2126,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,778,2182,814,2214,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,790,2280,822,2315,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,901,2249,925,2289,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,954,2176,982,2209,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1006,2093,1035,2135,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1112,2003,1161,2056,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1068,2223,1095,2258,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1126,2122,1161,2153,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1197,2150,1232,2186,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1251,2240,1283,2283,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1528,1504,1577,1564,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1737,1511,1794,1579,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1521,1708,1586,1759,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1761,1693,1823,1740,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1975,1525,2072,1586,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2217,1506,2266,1570,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1978,1715,2039,1757,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2230,1708,2299,1754,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2450,1528,2512,1575,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2442,1689,2513,1761,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1511,2028,1576,2070,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1499,2207,1561,2268,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1746,2050,1806,2090,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1760,2211,1818,2278,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,1979,2047,2039,2090,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2235,2047,2297,2103,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2451,2036,2508,2111,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2011,2244,2071,2294,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2224,2217,2278,2284,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,2485,2192,2521,2257,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss1672.JPG,203,372,572,693,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,179,365,824,503,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,924,415,1276,507,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,278,610,782,729,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,943,616,1271,709,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,206,966,370,1146,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,530,951,612,1102,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,388,1173,478,1245,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,676,1069,790,1246,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,887,972,990,1049,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,943,1112,1041,1220,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1140,1154,1235,1231,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1151,1004,1236,1080,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,238,1511,306,1588,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,464,1511,535,1558,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,692,1492,744,1555,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,911,1494,985,1546,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1144,1486,1208,1525,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,221,1704,290,1760,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,459,1700,496,1756,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,670,1698,752,1748,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,909,1696,964,1760,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1144,1711,1213,1758,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1442,972,1595,1189,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1730,982,1839,1203,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1996,945,2097,1211,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2258,1022,2390,1099,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2255,1180,2347,1249,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2484,1083,2561,1151,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1492,1481,1572,1537,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1740,1479,1814,1535,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1983,1473,2041,1516,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2224,1476,2298,1539,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2492,1463,2537,1535,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1495,1704,1547,1760,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1724,1711,1838,1775,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1991,1692,2104,1755,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2273,1687,2355,1753,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2488,1671,2573,1740,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1468,394,1923,494,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1482,587,1912,671,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2067,417,2242,517,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2047,583,2251,676,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2382,423,2525,502,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2358,579,2574,682,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2947,493,3713,612,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2714,919,2878,1101,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2976,919,3148,1077,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3275,919,3425,1086,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3573,930,3732,1076,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3066,1122,3214,1278,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3316,1128,3458,1242,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3617,1086,3789,1261,Unaccepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2781,1133,2936,1267,Optimal
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2772,1510,2844,1584,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3015,1507,3131,1591,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3295,1513,3377,1582,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3486,1513,3578,1595,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3699,1503,3800,1588,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2805,1708,2876,1774,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3026,1692,3132,1774,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3267,1659,3359,1780,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3530,1727,3598,1787,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3712,1704,3809,1794,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1474,2022,1546,2078,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1711,2047,1787,2094,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1973,2030,2071,2090,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2271,2028,2334,2078,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2484,2001,2523,2075,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1470,2224,1555,2298,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1721,2232,1819,2279,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1939,2215,2116,2304,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2273,2237,2337,2285,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2501,2200,2548,2263,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2749,2012,2821,2073,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2928,2051,3013,2107,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2738,2216,2812,2288,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,2960,2207,3029,2271,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3169,2025,3248,2091,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3200,2237,3250,2297,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3459,2020,3535,2089,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3702,2023,3754,2103,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3460,2229,3528,2293,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,3707,2189,3775,2253,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,167,2005,225,2065,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,293,1962,320,2012,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,179,2189,263,2261,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,370,2009,405,2065,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,386,2110,420,2168,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,494,2038,565,2070,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,616,1988,693,2046,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,507,2147,555,2189,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,404,2236,457,2302,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,629,2147,669,2186,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,760,1978,815,2044,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,887,2014,930,2051,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,810,2092,849,2121,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,766,2165,797,2207,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,563,2266,603,2308,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,785,2286,817,2336,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,934,2183,981,2220,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,977,2078,1067,2142,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1041,1986,1080,2025,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1170,1994,1207,2039,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1091,2158,1141,2200,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1066,2263,1106,2321,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,890,2292,929,2337,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1170,2240,1212,2279,Accepted
+C:/Users/INPUNPRAP/OneDrive - Sandvik/Desktop/2nd_faster_rcnn/TEST/Spankarta STD-MT ss2348.JPG,1239,2139,1281,2178,Accepted
